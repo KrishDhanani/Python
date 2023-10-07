@@ -1,0 +1,54 @@
+1.Basic.py
+2.Module.py
+3.Variable&Datatype.py
+4.Operator.py
+5.Practice1.py
+6.Type_Casting.py
+7.User_Input.py
+8.String.py
+9.Practice2.py
+10.String_Slising.py
+11.String_Methods.py
+12.If-Else.py
+13.match_case.py
+14.For_loop.py
+15.While_loop.py
+16.Break_Continue.py
+17.Function.py
+18.Function_Arguments.py
+19.List.py
+20.List-Methods.py
+21.Tupple.py
+22.Tupple_Method.py
+23.Exersice3.py
+24.F-string.py
+25.DocString.py
+26.Recursion.py
+27.Set.py
+28.SetMethod.py
+29.Dictionary.py
+30.Dictionary_Method.py
+31.for_loop_with_else.py
+32.Exception_handling.py
+33.Finally_keyword.py
+34.Raising_custom_error.py 
+35.Short_hand_if_else.py
+36.Enumerate_fun.py
+37.Virtual_environment.py
+38.import_keyword.py
+39.if__name__.py  +  if__name1__.py  +  if__name2__.py
+40.Os_module.py
+41.Local_vs_Global_Variable.py
+42.File_IO.py  +  myfile.txt + file_name.py (created_in_program)
+43.File_IO_Method.py + file_name.py
+44.File_IO_Method1.py + file_name1.txt
+45.lembda_fun.py
+46.Map_Filter_Reduce.py
+47.'is'_vs_'=='.py
+49.Exersice5.py
+..................................
+50.OOP_Intro.py
+51.Classes_and_object.py
+52.Constructor.py
+53.Decorators.py
+54.getter_setter.py
