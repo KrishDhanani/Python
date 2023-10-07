@@ -3,7 +3,7 @@
 print('hello world',6)
 print(7)
 print("krish")
-print(10*2)
+print(10*3)
 
 # -> How to write comment
 # <--This is single line comment 
