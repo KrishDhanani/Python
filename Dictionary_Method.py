@@ -42,3 +42,31 @@ del ep1
 del ep2[85]
 # for remove perticular data
 print(ep2)
+
+
+
+
+
+
+
+
+
+# Example::
+# 1.
+# Ask user to give name and marks of 10 different students. Store them in dictionary.
+
+dict = {}
+print(type(dict))
+key = 0
+for i in range(10):
+    key += 1
+    user_input = int("Enter line wise student Marks: ")
+    dict[key] = user_input
+
+print(dict)
+
+
+
+
+# 2.
+# Sort the dictionary created in previous example according to marks.
