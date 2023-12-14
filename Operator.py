@@ -9,7 +9,7 @@ print(3**2) # No.times Multiplication Ans.3*3=9
 # Qna: Mack the calculator Using this Operator
 a = 5
 b = 3
-print("The value of:",a,"+",b,"is:",a+b)
-print("The value of:",a,"-",b,"is:",a-b)
-print("The value of:",a,"*",b,"is:",a*b)
-print("The value of:",a,"/",b,"is:",a/b)
+print("The value of:", a, "+", b, "is:", a+b)
+print("The value of:", a, "-", b, "is:", a-b)
+print("The value of:", a, "*", b, "is:", a*b)
+print("The value of:", a, "/", b, "is:", a/b)
